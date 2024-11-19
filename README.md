@@ -5,6 +5,8 @@ This template repository is the starter project for Game Programming 1 Final Exa
 #### **Objective:**
 Create a game in Greenfoot based on the provided screenshot. The game will feature a Ladybug navigating a grid-based world to reach the FinishLocation while avoiding Cannonballs fired by multiple Canons. The game will end with either a WinningScreen or a GameOver screen based on the player’s performance.
 
+![](Sample_World.png)
+
 #### **Exam Overview:**
 - **Worth:** 20% of the final grade
 - **Tools:** Greenfoot IDE
