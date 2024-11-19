@@ -37,7 +37,7 @@ Create a game in Greenfoot based on the provided screenshot. The game will featu
    - **Collision Detection:**
      - If the Ladybug collides with a Cannonball:
        - The game transitions to the **GameOver** screen.
-       - The **"losing.wav"** sound is played.
+       - The **"lose.wav"** sound is played.
      - If the Ladybug reaches the FinishLocation:
        - The game transitions to the **WinningScreen**.
        - The **"win.wav"** sound is played.
@@ -51,7 +51,7 @@ Create a game in Greenfoot based on the provided screenshot. The game will featu
    - **GameOver Screen:**
      - Display a message: **"Game Over!"**
      - Include a somber background.
-     - Play the **"losing.wav"** sound.
+     - Play the **"lose.wav"** sound.
 
 #### 4. **Sound Effects:**
    - Ensure the correct sound effects are used during the transitions:
