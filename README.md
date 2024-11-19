@@ -42,8 +42,6 @@ Create a game in Greenfoot based on the provided screenshot. The game will featu
        - The game transitions to the **WinningScreen**.
        - The **"win.wav"** sound is played.
 
----
-
 #### 3. **Screens and Sounds:**
    - **WinningScreen:**
      - Display a message: **"Congratulations, You Win!"**
